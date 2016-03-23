@@ -1,0 +1,271 @@
+
+@media only screen and (max-width : 400px) {
+
+  #home-slider .slider-cycle { 
+    display: none;
+
+  }
+  
+
+} 
+
+@media only screen and (max-width : 968px) {
+
+h1{
+    font-size: 25px;
+  }
+
+  #header .navbar-nav.navbar-right li {
+    padding: 0;
+  }
+
+  #header .navbar-nav.navbar-right >li a {
+    padding: 20px 10px;
+  }
+
+  #home-slider {
+    margin-top: 30px;
+  }
+
+  #home-slider .main-slider {
+    height: 250px;
+  }
+
+  #home-slider .slide-text {
+    top: 0;
+    width: 50%;
+  }
+ 
+#home-slider {
+    margin-top: 30px;
+  }
+
+  #home-slider .main-slider {
+    height: 250px;
+  }
+
+  #home-slider .slide-text {
+    top: 0;
+    width: 50%;
+  }
+
+  #home-slider h1 {
+    margin-top: 0;
+  }
+
+  #home-slider .slider-hill {
+    width: 400px;
+  }
+
+  #home-slider .slider-house {
+    width: 350px;
+    right: 0px;
+    bottom: 0px;
+  }
+
+  #home-slider .slider-sun {
+    right: 23%;
+    bottom: 80%;
+    width: 60px
+  }
+
+  #home-slider .slider-cloud1 {
+    bottom: 80%;
+    width: 70px;
+    right: 30%;
+    margin-right: 50px;
+  }
+
+  #home-slider .slider-cloud2 {
+    bottom: 70%;
+    width: 70px;
+    right: 30%;
+    margin-right: -140px;
+  }
+
+  #home-slider .slider-cloud3 {
+    bottom: 60%; 
+    width: 60px;
+    right: 10%;
+    margin-right: 120px;
+
+  }
+
+  #home-slider .slider-circle1 {
+    bottom: 65%; 
+    width: 15px;
+    right: 23%;
+    margin-right: 120px;
+
+  }
+
+  #home-slider .slider-circle2 {
+    bottom: 55%; 
+    width: 20px;
+    right: 24%;
+    margin-right: 120px;
+
+  }
+
+  #home-slider .slider-cycle { 
+    width: 150px;
+    right: 30%;
+    margin-right: 120px;
+
+  }
+
+/* xs */
+@media only screen and (max-width : 768px) {
+
+  h1{
+    font-size: 22px;
+  }
+
+  h2{
+    font-size:20px;
+  }
+
+  .padding{
+    padding: 30px 0;
+  }
+
+  #header {
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+
+  .social-icons.pull-right{
+    float: left !important;
+  }
+
+  
+
+  #header .navbar-inverse .navbar-toggle,
+  #header .navbar-inverse .navbar-toggle:focus {
+    border-color: #d29948;
+    margin-top: 15px;
+    margin-right: 5px;
+    outline: none;
+  }
+
+  .navbar-header .navbar-toggle .icon-bar {
+    background-color: #d29948;
+  }
+
+  #header .navbar-inverse .navbar-toggle:hover {
+    background: #d29948;
+  }
+
+  #header .navbar-inverse .navbar-toggle:hover .icon-bar {
+    background: #fff;
+  }
+ 
+  .navbar-inverse .navbar-collapse,
+  .navbar-inverse .navbar-form {
+    border-top: 0;
+  }
+
+  .navbar.navbar-inverse {
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .social-icons ul li:first-child{
+    padding-left: 0;
+  }
+
+  .search {
+    top: -40px;
+  }
+
+  #header .navbar-nav.navbar-right li > a > i {
+    display: inline-block;
+    float: right;
+    padding: 8px 10px 8px 30px
+  }
+
+  #header .navbar-nav.navbar-right li > a {
+    padding: 10px 0;
+  }
+
+  #header .navbar-nav li ul.sub-menu li a {
+    padding: 5px 10px;
+  }
+
+  #header .navbar-inverse .navbar-nav li.active > a, 
+  #header .navbar-inverse .navbar-nav li.active > a:focus, 
+  #header .navbar-nav.navbar-right li > a:hover {
+    border: none;
+  }
+
+
+  #home-slider {
+    margin: 50px 20px;
+  }
+
+  #home-slider .main-slider {
+    height: 500px;
+  }
+
+  #home-slider .slide-text {
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+
+   #home-slider .slider-house {
+    right: 0px;
+  }
+
+  #home-slider .slider-sun {
+    bottom: 40%;
+    right: 20%;
+    width: 70px;
+  }
+
+  #home-slider .slider-cloud1 {
+    bottom: 40%;
+    width: 70px;
+    right: 30%;
+    margin-right: 50px;
+  }
+
+  #home-slider .slider-cloud2 {
+    bottom: 35%;
+    width: 70px;
+    right: 30%;
+    margin-right: -140px;
+  }
+
+    #home-slider .slider-cloud3 {
+    bottom: 33%;  
+    width: 60px;
+    right: 20%;
+    margin-right: 50px;
+  }
+
+   #home-slider .slider-circle1 {
+    bottom: 33%; 
+    width: 15px;
+    right: 25%;
+    margin-right: 120px;
+
+  }
+
+  #home-slider .slider-circle2 {
+    bottom: 28%; 
+    width: 20px;
+    right: 27%;
+    margin-right: 120px;
+
+  }
+
+  #home-slider .slider-cycle { 
+    right: 32%;
+    margin-right: 120px;
+
+  }
+
+} 
